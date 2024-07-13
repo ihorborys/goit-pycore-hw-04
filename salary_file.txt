@@ -1,0 +1,11 @@
+Peter Schmaichel,5000
+Ronny Johnsen,3000
+Denis Irwin,4000
+Gary Neville,2000
+Phill Neville,1000
+Roy Keane,4000
+Paul Scholes,6000
+David Beckham,8000
+Ryan Giggs,7000
+Dwight Yorke,5000
+Andy Cole,4000
